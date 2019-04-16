@@ -1,0 +1,63 @@
+<div class="container">
+  <p>
+    <ngb-alert [type]="alert.type">{{ alert.message }}</ngb-alert>
+  </p>
+
+  <div class="panel panel-default">
+    <h2>Published Hierarchies</h2>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Business Line Name</th>
+          <th>Hierarchy Last Published</th>
+          <th>Current Open Request</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let hierarchy of hierarchies.published">
+          <td>{{hierarchy.business}}</td>
+          <td>{{hierarchy.published | date : format : timezone}}</td>
+          <td>{{hierarchy.open}}</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="panel panel-default">
+      <h2>Proposed Hierarchies</h2>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Business Line Name</th>
+            <th>Hierarchy Last Published</th>
+            <th>Current Open Request</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let hierarchy of hierarchies.proposed">
+            <td>{{hierarchy.business}}</td>
+            <td>{{hierarchy.published | date : format : timezone}}</td>
+            <td>{{hierarchy.open}}</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="panel panel-default">
+        <h2>Hierarchy Drafts</h2>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Business Line Name</th>
+              <th>Hierarchy Last Published</th>
+              <th>Current Open Request</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let hierarchy of hierarchies.drafts">
+              <td>{{hierarchy.business}}</td>
+              <td>{{hierarchy.published | date : format : timezone}}</td>
+              <td>{{hierarchy.open}}</td>
+            </tr>
+          </tbody>
+        </table>
+
+      </div>

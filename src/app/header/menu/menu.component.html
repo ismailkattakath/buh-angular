@@ -1,0 +1,55 @@
+<nav class="navbar navbar-light bg-light navbar-expand-md">
+  <div class="container">
+    <a class="navbar-brand" href="#">Scotiabank BUH</a>
+    <button class="navbar-toggler hidden-sm-up" type="button" (click)="isNavbarCollapsed = !isNavbarCollapsed"
+      data-target="#navbarsDefault" aria-controls="navbarsDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div [ngbCollapse]="isNavbarCollapsed" class="collapse navbar-collapse" id="navbarsDefault">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class=nav-item>
+          <div ngbDropdown class="d-inline-block">
+            <button class="nav-link" ngbDropdownToggle>Hierarchy</button>
+            <div ngbDropdownMenu aria-labelledby="dropdownBasic1">
+              <a href="/hierarchy/published" ngbDropdownItem>Published</a>
+              <a href="/hierarchy/proposed" ngbDropdownItem>Proposed</a>
+              <a href="/hierarchy/calendar" ngbDropdownItem>Calendar</a>
+            </div>
+          </div>
+        </li>
+        <li class=nav-item>
+          <div ngbDropdown class="d-inline-block">
+            <button class="nav-link" ngbDropdownToggle>Change Request</button>
+            <div ngbDropdownMenu aria-labelledby="dropdownBasic1">
+              <a href="/change-request/new" ngbDropdownItem>New</a>
+              <a href="/change-request/view-all" ngbDropdownItem>View All</a>
+            </div>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/legal-entity">Legal Entity</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/stakeholders">Stakeholders</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/report">Report</a>
+        </li>
+        <li class=nav-item>
+          <div ngbDropdown class="d-inline-block">
+            <button class="nav-link" ngbDropdownToggle>Administration</button>
+            <div ngbDropdownMenu aria-labelledby="dropdownBasic1">
+              <a href="/administration/update-hierarchy" ngbDropdownItem>Update Hierarchy</a>
+              <a href="/administration/update-hr" ngbDropdownItem>Update HR</a>
+              <a href="/administration/update-le" ngbDropdownItem>Update LE</a>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

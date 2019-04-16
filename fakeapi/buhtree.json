@@ -1,0 +1,990 @@
+{
+    "tree": {
+        "versionId": 1,
+        "unitId": 1,
+        "unitName": "Global Banking & Markets",
+        "level": 1,
+        "refKey": "0-",
+        "parentId": 0,
+        "children": [
+            {
+                "versionId": 1,
+                "unitId": 2,
+                "unitName": "Global Corporate Banking & Investment Banking",
+                "level": 2,
+                "refKey": "0-1-",
+                "parentId": 1,
+                "children": [
+                    {
+                        "versionId": 1,
+                        "unitId": 4,
+                        "unitName": "CB - Canada",
+                        "level": 3,
+                        "refKey": "0-1-2-",
+                        "parentId": 2,
+                        "children": [
+                            {
+                                "versionId": 1,
+                                "unitId": 23,
+                                "unitName": "Energy, infrastructure, power and mining",
+                                "level": 4,
+                                "refKey": "0-1-2-4-",
+                                "parentId": 4,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 24,
+                                "unitName": "Credit Analytics group",
+                                "level": 4,
+                                "refKey": "0-1-2-4-",
+                                "parentId": 4,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 25,
+                                "unitName": "Financial Institutions",
+                                "level": 4,
+                                "refKey": "0-1-2-4-",
+                                "parentId": 4,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 26,
+                                "unitName": "Diversified Industries",
+                                "level": 4,
+                                "refKey": "0-1-2-4-",
+                                "parentId": 4,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "versionId": 1,
+                        "unitId": 5,
+                        "unitName": "CB - US",
+                        "level": 3,
+                        "refKey": "0-1-2-",
+                        "parentId": 2,
+                        "children": [
+                            {
+                                "versionId": 1,
+                                "unitId": 25,
+                                "unitName": "Financial Institutions",
+                                "level": 4,
+                                "refKey": "0-1-2-5-",
+                                "parentId": 5,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 27,
+                                "unitName": "Auto, diversified,healthcare, media, technology, power and REGAL",
+                                "level": 4,
+                                "refKey": "0-1-2-5-",
+                                "parentId": 5,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 28,
+                                "unitName": "Energy",
+                                "level": 4,
+                                "refKey": "0-1-2-5-",
+                                "parentId": 5,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 29,
+                                "unitName": "Infrastructure Finance",
+                                "level": 4,
+                                "refKey": "0-1-2-5-",
+                                "parentId": 5,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "versionId": 1,
+                        "unitId": 6,
+                        "unitName": "CB - Asia",
+                        "level": 3,
+                        "refKey": "0-1-2-",
+                        "parentId": 2,
+                        "children": [
+                            {
+                                "versionId": 1,
+                                "unitId": 25,
+                                "unitName": "Financial Institutions",
+                                "level": 4,
+                                "refKey": "0-1-2-6-",
+                                "parentId": 6,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 30,
+                                "unitName": "Southeast Asia, India, Australia",
+                                "level": 4,
+                                "refKey": "0-1-2-6-",
+                                "parentId": 6,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 31,
+                                "unitName": "North Asia",
+                                "level": 4,
+                                "refKey": "0-1-2-6-",
+                                "parentId": 6,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "versionId": 1,
+                        "unitId": 7,
+                        "unitName": "CB - Europe",
+                        "level": 3,
+                        "refKey": "0-1-2-",
+                        "parentId": 2,
+                        "children": [
+                            {
+                                "versionId": 1,
+                                "unitId": 25,
+                                "unitName": "Financial Institutions",
+                                "level": 4,
+                                "refKey": "0-1-2-7-",
+                                "parentId": 7,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 32,
+                                "unitName": "Energy, infrastructure, power and utilities",
+                                "level": 4,
+                                "refKey": "0-1-2-7-",
+                                "parentId": 7,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 33,
+                                "unitName": "Diversified Industries and Mining",
+                                "level": 4,
+                                "refKey": "0-1-2-7-",
+                                "parentId": 7,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "versionId": 1,
+                        "unitId": 8,
+                        "unitName": "CB - Brazil",
+                        "level": 3,
+                        "refKey": "0-1-2-",
+                        "parentId": 2,
+                        "children": []
+                    },
+                    {
+                        "versionId": 1,
+                        "unitId": 9,
+                        "unitName": "Global Loan Syndications",
+                        "level": 3,
+                        "refKey": "0-1-2-",
+                        "parentId": 2,
+                        "children": []
+                    },
+                    {
+                        "versionId": 1,
+                        "unitId": 10,
+                        "unitName": "Global Investment Banking",
+                        "level": 3,
+                        "refKey": "0-1-2-",
+                        "parentId": 2,
+                        "children": [
+                            {
+                                "versionId": 1,
+                                "unitId": 34,
+                                "unitName": "GIB - Consumer Industrial & Retail (CIR or CP/IP)",
+                                "level": 4,
+                                "refKey": "0-1-2-10-",
+                                "parentId": 10,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 35,
+                                "unitName": "GIB - Financial Institutions",
+                                "level": 4,
+                                "refKey": "0-1-2-10-",
+                                "parentId": 10,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 36,
+                                "unitName": "GIB - Mining & Metals",
+                                "level": 4,
+                                "refKey": "0-1-2-10-",
+                                "parentId": 10,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 37,
+                                "unitName": "GIB - Power & Utilities",
+                                "level": 4,
+                                "refKey": "0-1-2-10-",
+                                "parentId": 10,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 38,
+                                "unitName": "GIB - Private Equity & Financial Sponsors",
+                                "level": 4,
+                                "refKey": "0-1-2-10-",
+                                "parentId": 10,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 39,
+                                "unitName": "GIB - Real Estate",
+                                "level": 4,
+                                "refKey": "0-1-2-10-",
+                                "parentId": 10,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 40,
+                                "unitName": "GIB - Telecom, Media, Technology & Healthcare",
+                                "level": 4,
+                                "refKey": "0-1-2-10-",
+                                "parentId": 10,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 41,
+                                "unitName": "GIB - Mergers & Acquisitions",
+                                "level": 4,
+                                "refKey": "0-1-2-10-",
+                                "parentId": 10,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 42,
+                                "unitName": "GIB - Energy",
+                                "level": 4,
+                                "refKey": "0-1-2-10-",
+                                "parentId": 10,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 43,
+                                "unitName": "GIB - LATAM",
+                                "level": 4,
+                                "refKey": "0-1-2-10-",
+                                "parentId": 10,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 44,
+                                "unitName": "GIB - Asia Pacific",
+                                "level": 4,
+                                "refKey": "0-1-2-10-",
+                                "parentId": 10,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 45,
+                                "unitName": "Equity Capital Markets (ECM)",
+                                "level": 4,
+                                "refKey": "0-1-2-10-",
+                                "parentId": 10,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "versionId": 1,
+                        "unitId": 11,
+                        "unitName": "Global Business Payments",
+                        "level": 3,
+                        "refKey": "0-1-2-",
+                        "parentId": 2,
+                        "children": [
+                            {
+                                "versionId": 1,
+                                "unitId": 46,
+                                "unitName": "GBP Sales",
+                                "level": 4,
+                                "refKey": "0-1-2-11-",
+                                "parentId": 11,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 47,
+                                "unitName": "Correspondent Banking",
+                                "level": 4,
+                                "refKey": "0-1-2-11-",
+                                "parentId": 11,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 48,
+                                "unitName": "Customer Experience & Digital Channels",
+                                "level": 4,
+                                "refKey": "0-1-2-11-",
+                                "parentId": 11,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 49,
+                                "unitName": "GBP - PMO and Risk Mgmt",
+                                "level": 4,
+                                "refKey": "0-1-2-11-",
+                                "parentId": 11,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 50,
+                                "unitName": "Client Services & Solutions",
+                                "level": 4,
+                                "refKey": "0-1-2-11-",
+                                "parentId": 11,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 51,
+                                "unitName": "Global Business Deposit Products",
+                                "level": 4,
+                                "refKey": "0-1-2-11-",
+                                "parentId": 11,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 52,
+                                "unitName": "Trade Finance",
+                                "level": 4,
+                                "refKey": "0-1-2-11-",
+                                "parentId": 11,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 53,
+                                "unitName": "Global Business Payment Product",
+                                "level": 4,
+                                "refKey": "0-1-2-11-",
+                                "parentId": 11,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "versionId": 1,
+                "unitId": 3,
+                "unitName": "Global Capital Markets",
+                "level": 2,
+                "refKey": "0-1-",
+                "parentId": 1,
+                "children": [
+                    {
+                        "versionId": 1,
+                        "unitId": 12,
+                        "unitName": "Risk Mgmt & \nLoan Portfolio Mgmt",
+                        "level": 3,
+                        "refKey": "0-1-3-",
+                        "parentId": 3,
+                        "children": [
+                            {
+                                "versionId": 1,
+                                "unitId": 54,
+                                "unitName": "LoanPortfolio Mgmt",
+                                "level": 4,
+                                "refKey": "0-1-3-12-",
+                                "parentId": 12,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 55,
+                                "unitName": "GCM Risk Mgmt",
+                                "level": 4,
+                                "refKey": "0-1-3-12-",
+                                "parentId": 12,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 56,
+                                "unitName": "ScotiaMoccatta Credit Solutions",
+                                "level": 4,
+                                "refKey": "0-1-3-12-",
+                                "parentId": 12,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 57,
+                                "unitName": "Global Capital Markets Banking",
+                                "level": 4,
+                                "refKey": "0-1-3-12-",
+                                "parentId": 12,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "versionId": 1,
+                        "unitId": 13,
+                        "unitName": "Global Equity",
+                        "level": 3,
+                        "refKey": "0-1-3-",
+                        "parentId": 3,
+                        "children": [
+                            {
+                                "versionId": 1,
+                                "unitId": 58,
+                                "unitName": "Equity Derivatives",
+                                "level": 4,
+                                "refKey": "0-1-3-13-",
+                                "parentId": 13,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 59,
+                                "unitName": "Structured Notes",
+                                "level": 4,
+                                "refKey": "0-1-3-13-",
+                                "parentId": 13,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 60,
+                                "unitName": "Global Equity Research",
+                                "level": 4,
+                                "refKey": "0-1-3-13-",
+                                "parentId": 13,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 61,
+                                "unitName": "Prime Services - Cash Prime Brokerage (PB)",
+                                "level": 4,
+                                "refKey": "0-1-3-13-",
+                                "parentId": 13,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 62,
+                                "unitName": "Prime Services - Securities Borrowing & Lending (SBL)",
+                                "level": 4,
+                                "refKey": "0-1-3-13-",
+                                "parentId": 13,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 63,
+                                "unitName": "Prime Services - Synthethic Prime Brokerage",
+                                "level": 4,
+                                "refKey": "0-1-3-13-",
+                                "parentId": 13,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 64,
+                                "unitName": "Equity Sales & Trading - Direct Market Access (DMA)",
+                                "level": 4,
+                                "refKey": "0-1-3-13-",
+                                "parentId": 13,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 65,
+                                "unitName": "Equity Sales & Trading",
+                                "level": 4,
+                                "refKey": "0-1-3-13-",
+                                "parentId": 13,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 66,
+                                "unitName": "Convertible Bond & Preferred Share MM",
+                                "level": 4,
+                                "refKey": "0-1-3-13-",
+                                "parentId": 13,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "versionId": 1,
+                        "unitId": 14,
+                        "unitName": "Fixed Income Currencies & Commodities (FICC)",
+                        "level": 3,
+                        "refKey": "0-1-3-",
+                        "parentId": 3,
+                        "children": [
+                            {
+                                "versionId": 1,
+                                "unitId": 67,
+                                "unitName": "Derivative Products Group",
+                                "level": 4,
+                                "refKey": "0-1-3-14-",
+                                "parentId": 14,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 68,
+                                "unitName": "FX Sales & Trading (incl Non-Linear)",
+                                "level": 4,
+                                "refKey": "0-1-3-14-",
+                                "parentId": 14,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 69,
+                                "unitName": "Energy & Agricultural Commodities - Sales & Trading",
+                                "level": 4,
+                                "refKey": "0-1-3-14-",
+                                "parentId": 14,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 70,
+                                "unitName": "Metals Sales & Trading",
+                                "level": 4,
+                                "refKey": "0-1-3-14-",
+                                "parentId": 14,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 71,
+                                "unitName": "Cash Rates Sales & Trading",
+                                "level": 4,
+                                "refKey": "0-1-3-14-",
+                                "parentId": 14,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 72,
+                                "unitName": "Derivatives Rates Sales & Trading",
+                                "level": 4,
+                                "refKey": "0-1-3-14-",
+                                "parentId": 14,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 73,
+                                "unitName": "Coll Mgmt & Funding (CMF)",
+                                "level": 4,
+                                "refKey": "0-1-3-14-",
+                                "parentId": 14,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 74,
+                                "unitName": "Credit Sales &Trading - Emerging Markets",
+                                "level": 4,
+                                "refKey": "0-1-3-14-",
+                                "parentId": 14,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 75,
+                                "unitName": "Credit Sales & Trading - Non-Emerging Markets",
+                                "level": 4,
+                                "refKey": "0-1-3-14-",
+                                "parentId": 14,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 76,
+                                "unitName": "Credit Trading - Loan Syndications",
+                                "level": 4,
+                                "refKey": "0-1-3-14-",
+                                "parentId": 14,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 77,
+                                "unitName": "Securitization",
+                                "level": 4,
+                                "refKey": "0-1-3-14-",
+                                "parentId": 14,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 78,
+                                "unitName": "XVA",
+                                "level": 4,
+                                "refKey": "0-1-3-14-",
+                                "parentId": 14,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 79,
+                                "unitName": "Credit Derivatives Sales & Trading",
+                                "level": 4,
+                                "refKey": "0-1-3-14-",
+                                "parentId": 14,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 80,
+                                "unitName": "Debt Capital Markets",
+                                "level": 4,
+                                "refKey": "0-1-3-14-",
+                                "parentId": 14,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 81,
+                                "unitName": "Government Finance",
+                                "level": 4,
+                                "refKey": "0-1-3-14-",
+                                "parentId": 14,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "versionId": 1,
+                        "unitId": 15,
+                        "unitName": "GBM LATAM",
+                        "level": 3,
+                        "refKey": "0-1-3-",
+                        "parentId": 3,
+                        "children": []
+                    },
+                    {
+                        "versionId": 1,
+                        "unitId": 16,
+                        "unitName": "GBM U.S.",
+                        "level": 3,
+                        "refKey": "0-1-3-",
+                        "parentId": 3,
+                        "children": []
+                    },
+                    {
+                        "versionId": 1,
+                        "unitId": 17,
+                        "unitName": "GBM Europe",
+                        "level": 3,
+                        "refKey": "0-1-3-",
+                        "parentId": 3,
+                        "children": []
+                    },
+                    {
+                        "versionId": 1,
+                        "unitId": 18,
+                        "unitName": "GBM Asia Pacific",
+                        "level": 3,
+                        "refKey": "0-1-3-",
+                        "parentId": 3,
+                        "children": []
+                    },
+                    {
+                        "versionId": 1,
+                        "unitId": 19,
+                        "unitName": "Chief Operating Office (COO)",
+                        "level": 3,
+                        "refKey": "0-1-3-",
+                        "parentId": 3,
+                        "children": [
+                            {
+                                "versionId": 1,
+                                "unitId": 82,
+                                "unitName": "Global Analytics & Financial Engineering",
+                                "level": 4,
+                                "refKey": "0-1-3-19-",
+                                "parentId": 19,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 83,
+                                "unitName": "COO Office",
+                                "level": 4,
+                                "refKey": "0-1-3-19-",
+                                "parentId": 19,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 84,
+                                "unitName": "Regulatory Initiatives",
+                                "level": 4,
+                                "refKey": "0-1-3-19-",
+                                "parentId": 19,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "versionId": 1,
+                        "unitId": 20,
+                        "unitName": "COO - GWO",
+                        "level": 3,
+                        "refKey": "0-1-3-",
+                        "parentId": 3,
+                        "children": [
+                            {
+                                "versionId": 1,
+                                "unitId": 85,
+                                "unitName": "Global Wholesale Operations (GWO) - Money Transfer Operations",
+                                "level": 4,
+                                "refKey": "0-1-3-20-",
+                                "parentId": 20,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 86,
+                                "unitName": "GWO - Middle Office & Asset Servicing",
+                                "level": 4,
+                                "refKey": "0-1-3-20-",
+                                "parentId": 20,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 87,
+                                "unitName": "GWO - Confirmations & Documentation",
+                                "level": 4,
+                                "refKey": "0-1-3-20-",
+                                "parentId": 20,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 88,
+                                "unitName": "GWO - Operational Control",
+                                "level": 4,
+                                "refKey": "0-1-3-20-",
+                                "parentId": 20,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 89,
+                                "unitName": "GWO - Settlements & Clearing",
+                                "level": 4,
+                                "refKey": "0-1-3-20-",
+                                "parentId": 20,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 90,
+                                "unitName": "GWO - Operational  & Process Improvements",
+                                "level": 4,
+                                "refKey": "0-1-3-20-",
+                                "parentId": 20,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 91,
+                                "unitName": "GWO - Lending Services",
+                                "level": 4,
+                                "refKey": "0-1-3-20-",
+                                "parentId": 20,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 92,
+                                "unitName": "GWO - US",
+                                "level": 4,
+                                "refKey": "0-1-3-20-",
+                                "parentId": 20,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 93,
+                                "unitName": "GWO - Asia Pacific",
+                                "level": 4,
+                                "refKey": "0-1-3-20-",
+                                "parentId": 20,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 94,
+                                "unitName": "GWO - London",
+                                "level": 4,
+                                "refKey": "0-1-3-20-",
+                                "parentId": 20,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 95,
+                                "unitName": "GWO - Latam",
+                                "level": 4,
+                                "refKey": "0-1-3-20-",
+                                "parentId": 20,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 96,
+                                "unitName": "GWO - Strategy",
+                                "level": 4,
+                                "refKey": "0-1-3-20-",
+                                "parentId": 20,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "versionId": 1,
+                        "unitId": 21,
+                        "unitName": "COO - Internal Controls",
+                        "level": 3,
+                        "refKey": "0-1-3-",
+                        "parentId": 3,
+                        "children": [
+                            {
+                                "versionId": 1,
+                                "unitId": 97,
+                                "unitName": "GBM Internal Controls (GBMIC) - LATAM Regulatory Initaitives / ORO",
+                                "level": 4,
+                                "refKey": "0-1-3-21-",
+                                "parentId": 21,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 98,
+                                "unitName": "(GBMIC) - Risk Metrics & New Products",
+                                "level": 4,
+                                "refKey": "0-1-3-21-",
+                                "parentId": 21,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 99,
+                                "unitName": "(GBMIC) - GBM Onboarding",
+                                "level": 4,
+                                "refKey": "0-1-3-21-",
+                                "parentId": 21,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 100,
+                                "unitName": "(GBMIC) - Regulatory Business Sustainment",
+                                "level": 4,
+                                "refKey": "0-1-3-21-",
+                                "parentId": 21,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 101,
+                                "unitName": "(GBMIC) - Technology & Services",
+                                "level": 4,
+                                "refKey": "0-1-3-21-",
+                                "parentId": 21,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 102,
+                                "unitName": "(GBMIC) - Operational Risk Oversight",
+                                "level": 4,
+                                "refKey": "0-1-3-21-",
+                                "parentId": 21,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 103,
+                                "unitName": "(GBMIC) - Third Party Risk Mgmt",
+                                "level": 4,
+                                "refKey": "0-1-3-21-",
+                                "parentId": 21,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "versionId": 1,
+                        "unitId": 22,
+                        "unitName": "COO - GBM AML",
+                        "level": 3,
+                        "refKey": "0-1-3-",
+                        "parentId": 3,
+                        "children": [
+                            {
+                                "versionId": 1,
+                                "unitId": 104,
+                                "unitName": "GBM AML Program",
+                                "level": 4,
+                                "refKey": "0-1-3-22-",
+                                "parentId": 22,
+                                "children": []
+                            },
+                            {
+                                "versionId": 1,
+                                "unitId": 105,
+                                "unitName": "GBM AML Oversight",
+                                "level": 4,
+                                "refKey": "0-1-3-22-",
+                                "parentId": 22,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
